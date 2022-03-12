@@ -1,5 +1,5 @@
 ## <center>Hi, I'm Al azery<center>
-<img src="header.png" alt="header">
+<img src="alazery.jpg" alt="header">
 
 <p align="center">
 	<a href="https://github.com/Alazery"><img src="imgs/github.svg" alt="GitHub"></a>
